@@ -1,0 +1,15 @@
+
+class EQUIPMENT_ADDRESS():
+    SCOPE = "10.126.111.35"
+    
+    AC_SOURCE = 5
+    
+    POWER_METER_SOURCE = 30
+    POWER_METER_LOAD_1 = 2
+    POWER_METER_LOAD_2 = 2
+    POWER_METER_DIM = 21
+    
+    SIG_GEN = '11'
+    
+    ELOAD = 8
+    ELOAD_CHANNEL = 7
